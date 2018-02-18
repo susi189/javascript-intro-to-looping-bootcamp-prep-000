@@ -10,4 +10,8 @@ function forLoop(array) {
   return array
 }
 
-function 
+function hileLoop(num) {
+  while (num > 0){
+    
+  }
+}
