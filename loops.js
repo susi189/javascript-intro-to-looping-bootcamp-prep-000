@@ -19,8 +19,8 @@ function whileLoop(num) {
 
 function doWhileLoop(array) {
   do {
-    console.log(--array)
+    console.log(--array.length)
   } while 
-  (array.lenght > 0);
+  (array.length > 0);
   return array;
 }
