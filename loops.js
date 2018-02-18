@@ -12,13 +12,15 @@ function forLoop(array) {
 
 function whileLoop(num) {
   while (num > 0){
-    console.log(--num)
+    console.log(--num);
   }
-  return 'done'
+  return 'done';
 }
 
 function doWhileLoop(array) {
   do {
-    console
-  }
+    console.log(--array)
+  } while 
+  (array.length > 0 && maybeTrue());
+  return array;
 }
