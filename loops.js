@@ -21,6 +21,6 @@ function doWhileLoop(array) {
   do {
     console.log(--array)
   } while 
-  (array > 0);
+  (array.lenght > 0);
   return array;
 }
