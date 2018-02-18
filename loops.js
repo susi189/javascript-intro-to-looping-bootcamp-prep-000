@@ -24,6 +24,6 @@ function doWhileLoop(array) {
     --array
 }
   } while 
-  (array.length > 0 && maybeTrue());
+  (array.length > 1 && maybeTrue());
   return array;
 }
