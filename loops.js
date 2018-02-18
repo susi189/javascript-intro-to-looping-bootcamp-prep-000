@@ -10,7 +10,7 @@ function forLoop(array) {
   return array
 }
 
-function hileLoop(num) {
+function whileLoop(num) {
   while (num > 0){
     console.log(--number)
   }
