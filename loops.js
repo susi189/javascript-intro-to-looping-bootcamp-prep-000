@@ -12,6 +12,6 @@ function forLoop(array) {
 
 function hileLoop(num) {
   while (num > 0){
-    
+    console.log(--number)
   }
 }
